@@ -1,0 +1,6 @@
+{
+  "name": "easy",
+  "description": "App de finanças completo com rastreamento de gastos, dicas de economia com IA, suporte offline, sincronização bancária simulada, metas, suporte multi-moedas, exportação PDF/CSV e chat em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
